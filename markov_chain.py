@@ -12,6 +12,9 @@ print("###################################################\n")
 L = [1,2,3,4]
 
 
+#Make a  random number
+
+
 #Probalities Matrix (Transiction Matrix)
 S = [[0, 0.6, 0.3, 0.1],
      [0.5, 0, 0.4, 0.1],
