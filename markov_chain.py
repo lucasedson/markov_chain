@@ -12,7 +12,6 @@ print("###################################################\n")
 L = [1,2,3,4]
 
 
-#Make a  random number
 
 
 #Probalities Matrix (Transiction Matrix)
